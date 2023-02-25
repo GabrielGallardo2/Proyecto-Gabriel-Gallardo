@@ -1,0 +1,109 @@
+body{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-color: black;
+}
+p {color: white;} 
+h1 {color: white;}
+h2 {color: white;}
+a {
+	color: white;
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 600;
+	text-decoration: none;
+	font-size: 2rem;
+	line-height: 2rem;
+}
+.menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+  }
+nav {margin-bottom: 100px;}
+.menu {
+	top: -60px;
+  }
+
+
+ul li {list-style-type: none;
+	margin: 0; 
+	padding: 0; 
+	overflow: hidden;}
+  
+ul li {
+	float: left;   }
+  
+
+
+ 
+  .column {
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	padding: 10px;
+	height: 300px; 
+	text-align: justify;
+  }
+  .img-pro {
+	width: 200px;
+  }
+  
+  
+.productos {
+    cursor: pointer;
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	padding: 10px;
+	height: 300px; 
+	text-align: center;}
+  
+ 
+  .column {
+	-webkit-flex: 1;
+	-ms-flex: 1;
+	flex: 1;
+	padding: 10px;
+	height: 300px; 
+	text-align: justify;}
+
+  h4{text-align: center;}
+  .media-button{
+	width: 50px; 
+  height: auto;
+  ;
+  }
+.primerdisco {background-color: rgb(141, 153, 149);
+	}
+.segundodisco {background-color: rgb(141, 153, 149);
+
+}
+
+table {
+	margin: 0 auto;
+	width: 50%;
+  }
+table td {
+	width: auto;
+  }
+table td {
+	border: 1px solid black;
+	margin: 0%;
+  }
+  table tr:nth-child(even) {
+	background-color: #bb4e4e;
+  }
+  button {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  .navbar a {
+	display: block; 
+	padding: 8px 16px; 
+	text-decoration: none; 
+	font-size: 18px; 
+	color: whitesmoke; }
+.navbar {text-align: center;}

@@ -1,0 +1,10 @@
+.ejemplo-de-unidad-relativa {
+    font-size: 2rem;}
+.ejemplo-de-unidad-absoluta{font-size: 20px;}
+
+    .center{text-align: center;}
+    .right{text-align: right;}
+    .subrayado {text-decoration: none;
+    color: black;}
+    html{font-size: 62.5%;}
+    p{font-size: 5rem;}
